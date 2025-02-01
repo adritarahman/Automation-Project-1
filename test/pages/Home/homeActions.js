@@ -9,9 +9,7 @@ class HomeActions{
     await homeObjects.searchInputField.setValue(ProductName);
  }
  
- async clickOnSearchedProduct(){
-    await homeObjects.searchedProduct.click();
- }
+ 
 
 }
 
