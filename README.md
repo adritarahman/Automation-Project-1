@@ -1,6 +1,6 @@
 # Automation-Project-1
 
-This project contains an automation test suite with four essential test cases for verifying e-commerce(https://demo.evershop.io/) functionality:
+This project contains an automation test suite with four essential test cases for verifying an e-commerce(https://demo.evershop.io/) platform's functionality:
 
 1.Search Product: Tests the functionality of searching for a valid product.
 2.Add Product to Cart: Verifies the correct addition of a product to the shopping list. 
